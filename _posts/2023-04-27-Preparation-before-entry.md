@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      入国前の準備
-subtitle:   日本へようこそ！
+subtitle:   ————————————————————————————————
 date:       2023-04-27
 author:     Team16KCGI
-header-img: img/the-first.jpg
+header-img: img/post-nyuukoku.jpg
 catalog: false
 tags:
     - 入国
