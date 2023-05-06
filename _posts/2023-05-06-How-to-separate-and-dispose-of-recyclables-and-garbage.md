@@ -36,4 +36,4 @@ tags:
 
 **京都にお住まいの方へ**：
 
-「京都こごみネット」https://kyoto-kogomi.net/downloads/ をご参照ください。
+「京都こごみネット」[https://kyoto-kogomi.net/downloads/](https://kyoto-kogomi.net/downloads/) をご参照ください。
