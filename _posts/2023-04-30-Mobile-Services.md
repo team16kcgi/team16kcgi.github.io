@@ -22,7 +22,7 @@ tags:
 
 [楽天モバイル](https://network.mobile.rakuten.co.jp)
 
-[【公式】povo2.0｜基本料ゼロから始めるau回線のスマホプラン](https://povo.jp)
+[povo](https://povo.jp)
 
 **eSIM**：
 
@@ -32,7 +32,7 @@ tags:
 
 日本のほとんどの事業者はファストポータビリティをサポートしています。つまり、事業者やプランを変更したい場合、店舗に行く必要はなく、アプリでMNP番号を取得し、すぐに行うことができるのです。 状況にもよりますが、通常、数時間のネットワーク中断があります。
 
-[MNP予約番号の取得方法 | お申込みの流れ | ahamo](https://ahamo.com/support/mnp/)
+[https://ahamo.com/support/mnp/](https://ahamo.com/support/mnp/)
 
 **5Gのカバレッジ**：
 
@@ -40,6 +40,6 @@ tags:
 
 ソフトバンクのような事業者は、いわゆる5GのホームルーターのWiFiを開始することで、5Gが工事なしでも家庭のWiFiとして使えるように、5Gのカバー範囲を広げているところもあります。
 
-[自宅・家庭用Wi-FiならSoftBank Air（ソフトバンクエアー）工事不要、置くだけですぐに使える | インターネット・固定電話 | ソフトバンク](https://www.softbank.jp/internet/air/)
+[https://www.softbank.jp/internet/air/](https://www.softbank.jp/internet/air/)
 
 
