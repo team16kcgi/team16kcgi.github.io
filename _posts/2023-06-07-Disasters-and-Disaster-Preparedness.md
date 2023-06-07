@@ -30,8 +30,6 @@ tags:
 
 [地震情報](https://www.data.jma.go.jp/multi/quake/index.html?lang=jp)
 
-[気象庁](https://www.data.jma.go.jp/multi/quake/index.html?lang=jp)
-
 **洪水問題**
 
 大都市内では水道施設が整備されているため、ほとんど洪水の問題はありません。しかし、九州地方などの田舎暮らしでは、広範囲の降雨による河川の氾濫被害が毎年発生しています。もし、あなたの居住地が河川の近くにある場合、知っておくべきことは以下の通りです：
