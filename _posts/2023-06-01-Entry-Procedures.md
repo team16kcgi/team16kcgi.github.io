@@ -2,7 +2,7 @@
 layout:     post
 title:      入国手続きについて
 subtitle:   ————————————————————————————————
-date:       2023-04-30
+date:       2023-06-01
 author:     Team16KCGI
 header-img: img/post-nyuukoku.jpg
 catalog: false
