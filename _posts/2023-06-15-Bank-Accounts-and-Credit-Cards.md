@@ -2,7 +2,7 @@
 layout:     post
 title:      銀行口座とクレジットカード
 subtitle:   ————————————————————————————————
-date:       2023-05-06
+date:       2023-06-15
 author:     Team16KCGI
 header-img: img/post-bg-money.jpg
 catalog: false

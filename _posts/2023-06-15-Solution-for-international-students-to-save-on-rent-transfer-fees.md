@@ -2,7 +2,7 @@
 layout:     post
 title:      留学生が家賃の振込手数料を節約するためのソリューション
 subtitle:   ————————————————————————————————
-date:       2023-06-10
+date:       2023-06-15
 author:     Team16KCGI
 header-img: img/post-bg-money.jpg
 catalog: false

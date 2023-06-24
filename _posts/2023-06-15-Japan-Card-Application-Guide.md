@@ -2,7 +2,7 @@
 layout:     post
 title:      日本のカード申請ガイド
 subtitle:   ————————————————————————————————
-date:       2023-06-07
+date:       2023-06-15
 author:     Team16KCGI
 header-img: img/post-bg-money.jpg
 catalog: false
