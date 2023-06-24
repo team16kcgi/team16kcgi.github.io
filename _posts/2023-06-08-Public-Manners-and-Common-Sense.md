@@ -2,7 +2,7 @@
 layout:     post
 title:      公共マナーと常識
 subtitle:   ————————————————————————————————
-date:       2023-06-07
+date:       2023-06-08
 author:     Team16KCGI
 header-img: img/post-seikatu.jpg
 catalog: false

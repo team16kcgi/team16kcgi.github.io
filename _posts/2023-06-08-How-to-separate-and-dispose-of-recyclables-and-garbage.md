@@ -2,7 +2,7 @@
 layout:     post
 title:      資源物とごみの分け方・出し方
 subtitle:   ————————————————————————————————
-date:       2023-05-06
+date:       2023-06-08
 author:     Team16KCGI
 header-img: img/post-seikatu.jpg
 catalog: false

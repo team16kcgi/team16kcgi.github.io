@@ -2,7 +2,7 @@
 layout:     post
 title:      住所、印鑑、住民票を理解する
 subtitle:   ————————————————————————————————
-date:       2023-04-30
+date:       2023-06-08
 author:     Team16KCGI
 header-img: img/post-seikatu.jpg
 catalog: false

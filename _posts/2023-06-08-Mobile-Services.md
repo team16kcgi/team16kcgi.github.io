@@ -2,7 +2,7 @@
 layout:     post
 title:      モバイル通信サービス
 subtitle:   ————————————————————————————————
-date:       2023-04-30
+date:       2023-06-08
 author:     Team16KCGI
 header-img: img/post-seikatu.jpg
 catalog: false

@@ -2,7 +2,7 @@
 layout:     post
 title:      日本での家賃を借りるための知識
 subtitle:   ————————————————————————————————
-date:       2023-06-07
+date:       2023-06-08
 author:     Team16KCGI
 header-img: img/post-seikatu.jpg
 catalog: false
