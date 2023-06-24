@@ -2,7 +2,7 @@
 layout:     post
 title:      郵便・宅配便のシステム
 subtitle:   ————————————————————————————————
-date:       2023-05-13
+date:       2023-06-22
 author:     Team16KCGI
 header-img: img/post-yuubin.jpg
 catalog: false
