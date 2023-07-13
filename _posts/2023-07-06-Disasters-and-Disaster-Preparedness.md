@@ -2,7 +2,7 @@
 layout:     post
 title:      災害と災害対策
 subtitle:   ————————————————————————————————
-date:       2023-06-07
+date:       2023-07-06
 author:     Team16KCGI
 header-img: img/post-disasters.jpg
 catalog: false
