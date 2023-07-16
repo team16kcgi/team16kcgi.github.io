@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
 @media (min-width:1200px)
 {
     .post-container,.sidebar-container
@@ -179,7 +180,7 @@
 
 body
 {
-    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, "Yu Gothic", "Meiryo", "MS PGothic", sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
     line-height: 1.7;
     font-size: 16px;
     color: #404040;
@@ -193,7 +194,7 @@ p
 
 h1,h2,h3,h4,h5,h6
 {
-    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, "Yu Gothic", "Meiryo", "MS PGothic", sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
     line-height: 1.7;
     line-height: 1.1;
     font-weight: 700
@@ -488,7 +489,7 @@ pre code
     left: 0;
     width: 100%;
     z-index: 3;
-    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, "Yu Gothic", "Meiryo", "MS PGothic", sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
     line-height: 1.7
 }
 
@@ -678,7 +679,7 @@ pre code
 
 .intro-header .site-heading .subheading,.intro-header .page-heading .subheading
 {
-    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, "Yu Gothic", "Meiryo", "MS PGothic", sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
     line-height: 1.7;
     font-size: 18px;
     line-height: 1.1;
@@ -709,7 +710,7 @@ pre code
 
 .intro-header .post-heading .subheading
 {
-    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, "Yu Gothic", "Meiryo", "MS PGothic", sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
     line-height: 1.7;
     font-size: 17px;
     line-height: 1.4;
@@ -951,7 +952,7 @@ form .row:first-child .floating-label-form-group
 
 .btn
 {
-    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, "Yu Gothic", "Meiryo", "MS PGothic", sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
     line-height: 1.7;
     text-transform: uppercase;
     font-size: 14px;
@@ -982,7 +983,7 @@ form .row:first-child .floating-label-form-group
 
 .pager li>a,.pager li>span
 {
-    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, "Yu Gothic", "Meiryo", "MS PGothic", sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
     line-height: 1.7;
     text-transform: uppercase;
     font-size: 13px;
@@ -1169,7 +1170,7 @@ img::-moz-selection
 .one-tag-list .tag-text
 {
     font-weight: 200;
-    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, "Yu Gothic", "Meiryo", "MS PGothic", sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
     line-height: 1.7
 }
 
