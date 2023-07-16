@@ -2,7 +2,7 @@
 layout:     post
 title:      公共交通機関
 subtitle:   ————————————————————————————————
-date:       2023-05-20
+date:       2023-07-06
 author:     Team16KCGI
 header-img: img/post-koutsuu.jpg
 catalog: false
