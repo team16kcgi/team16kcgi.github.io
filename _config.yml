@@ -1,29 +1,30 @@
 # Site settings
-title: 三叶草国际语
-SEOTitle: 三叶草国际语 - 让沟通更容易
-header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
-description: "中西融合, 即学即会, 从此不再辛苦背单词"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
-url: "https://klovien.github.io"          # your host, for absolute URL
+title: 留学生のための日本生活ガイド
+SEOTitle: 日本生活ガイド - 留学生のため
+header-img: img/post-bg-homepage.jpg
+email: team16kcgi.wi0cd@aleeas.com
+description: "リーダーシップセオリーグループ16"
+keyword: "日本生活ガイド, 留学生"
+url: "https://team16kcgi.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/team16kcgi/team16kcgi.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you're going to be!"
-sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "私たちの努力を通じて、留学生が日本社会にもっと適応し、溶け込むのを助けると同時に、日本社会の多元化と国際化に貢献することを望んでいます。"
+sidebar-avatar: /img/about-team16.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-# zhihu_username:     qiubaiying
-# github_username:    qiubaiying
-# facebook_username:  baiying.qiu.7
-# jianshu_username:   e71990ada2fd
-# twitter_username:   qiubaiying
+github_username: team16kcgi
+
+
+
+
+
+
 
 
 
@@ -55,30 +56,30 @@ kramdown:
 
 
 
-# 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+
+
+
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: d18b343dd9c7ca49518a                            #生成的clientID
-  clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
+  clientID: b385430a8cb1d567d4f9                            #生成的clientID
+  clientSecret: 565e8caa57fe3d4dba81c17f8d2b37530f390109    #生成的clientSecret
+  repo: team16kcgi.github.io    #仓库名称
+  owner: team16kcgi    #github用户名
+  admin: team16kcgi
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
-# 统计
 
-# Analytics settings
-# Baidu Analytics
-# ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
-# Google Analytics
-# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-# ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+
+
+
+
+
+
+
 
 
 
@@ -96,16 +97,10 @@ service-worker: true
 
 
 
-# 友情链接，请尽量不要删除，谢谢！
+# 友情链接
 friends: [
     {
-        title: "星球国际语",
-        href: "https://globien.gitee.io"
-    },{
-        title: "星球语互动社区",
-        href: "https://tieba.baidu.com/f?kw=%E6%A0%BC%E7%BD%97%E6%AF%94%E8%A8%80&fr=home"
-    },{
-        title: "知乎：人造国际语",
-        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
+        title: "京都情報大学院大学",
+        href: "https://www.kcg.edu/"
     }
 ]
